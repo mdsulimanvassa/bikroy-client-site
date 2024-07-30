@@ -1,0 +1,9 @@
+.product-containt{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px 100px;
+    justify-content: center;
+}
+section h3{
+    margin-left: 100px;
+}

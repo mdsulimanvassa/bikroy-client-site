@@ -1,0 +1,22 @@
+.flex-basic{
+    flex-basis: 22%;
+    margin: 10px;
+    cursor: pointer;
+}
+.flex-basic h4{
+    margin: 10px 0px;
+    width: 150px;
+}
+.flex-basic img{
+    width: 100%;
+    display: inline-block;
+}
+.flex-basic a{
+    text-decoration: none;
+    color: #000;
+}
+.conainer1{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}

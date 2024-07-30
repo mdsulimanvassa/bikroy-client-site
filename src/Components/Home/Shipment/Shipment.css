@@ -1,0 +1,42 @@
+.shipment-containt{
+    width: 400px;
+    height: auto;
+    /* margin: 20px auto; */
+    background-color: #ddd;
+    border: 5px;
+    text-align: center;
+}
+
+.middle-aline{
+    background-color: #67e6dc;
+    display: flex;
+    width: 100%;
+    height: 90vh;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.shipment-container{
+    padding: 20px;
+}
+
+.shipment-rows div{
+    margin: 10px;
+}
+.shipment-rows div input{
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    border: 1px solid #007168;
+    border-radius: 30px;
+}
+
+.shipment-rows div input[type="submit"] {
+    background-image: linear-gradient(45deg, #12D0D6, #19D3AE);
+    color: #fff;
+    cursor: pointer;
+    padding: 8px;
+}

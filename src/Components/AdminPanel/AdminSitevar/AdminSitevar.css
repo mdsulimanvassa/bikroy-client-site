@@ -1,0 +1,19 @@
+.sitevar-containt{
+    background-image: linear-gradient(180deg, #18d2af, #10cfe3);
+    height: 550px;
+}
+.sitevar-flex{
+    padding: 40px;
+}
+.font-icon{
+    text-align: justify;
+    color: #fff;
+    margin: 10px;
+}
+.font-icon a{
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+    margin-left: 10px;
+    padding: 5px;
+}

@@ -1,0 +1,39 @@
+
+.all-containt img{
+    width: 90%;
+}
+.all-containt{
+    width: 100%;
+    display: grid;
+    padding: 10px;
+    grid-template-columns: 35% 65%;
+}
+.all-containt{
+    border-bottom: 1px solid #7b7979;
+    margin: 15px 0px;
+}
+.all-container{
+    margin-right: 20px;
+}
+.all-container h4{
+    margin-bottom: 10px;
+    color: #000;
+}
+.all-container p{
+    margin-bottom: 10px;
+    color: #7b7979;
+}
+.all-container h5{
+    margin-bottom: 10px;
+    color: #007168;
+    font-size: 16px;
+}
+.all-containt{
+    text-decoration: none;
+}
+
+.all-containt:hover{
+    box-shadow: 5px 5px 5px #7b7979, -5px -5px 5px #7b7979;
+    transition: 0.4s;
+    transform: transition;
+}

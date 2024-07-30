@@ -1,0 +1,15 @@
+.market-containt{
+    padding: 20px 100px;
+    color: #777f7d;
+}
+.market-containt div h4{
+    margin-bottom: 10px;
+}
+.market-containt div p{
+    margin-bottom: 20px;
+    font-size: 14px;
+    line-height: 25px;
+}
+.market-containt div ul li{
+    margin-bottom: 10px;
+}

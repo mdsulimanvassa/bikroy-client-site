@@ -1,0 +1,78 @@
+.all-padding-containt{
+  width: 900px;
+  height: auto;
+  margin: 10px auto;
+  background-color: #ddd;
+  padding: 20px;
+}
+.image-container{
+    width: 500px;
+    margin-top: 10px;
+}
+.image-container img{
+  width: 100%;
+  min-height: 80%;
+}
+.chat-container  p{
+  border: 1px solid #524f4f;
+  padding: 20px;
+  margin: 0px;
+}
+.chat-container p label{
+  font-size: 16px;
+  color: #fff;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  padding: 5px;
+  background-color: #007168;
+}
+.image-container h1{
+  color: #007168;
+  margin: 10px 0px;
+}
+.verify-items{
+  padding: 20px;
+  border: 1px solid #007168;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+.verify-items h4{
+  margin-bottom: 10px;
+}
+.verify-items ul{
+  margin-bottom: 10px;
+}
+.verify-items ul li{
+  line-height: 30px;
+  color: #524f4f;
+}
+.verify-items a{
+  text-decoration: none;
+  color: #007168;
+}
+.display-grid{
+  display: grid;
+  grid-template-columns: 60% 40%;
+}
+
+.propmote{
+  font-size: 16px;
+  background-color: goldenrod;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+.propmote .promote-icon{
+  margin-right: 5px;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  border: 1.5px solid #000;
+  padding: 2px 4px;
+  font-size: 12px;
+  position: relative;
+  top: -2px;
+  cursor: pointer;
+}

@@ -1,0 +1,9 @@
+.dashboard-containt{
+    background-color: #F4FDFB;
+    height: 100%;
+}
+.display-containt{
+    display: grid;
+    grid-template-columns: 20% 70%;
+    column-gap: 40px;
+}

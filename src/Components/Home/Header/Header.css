@@ -1,0 +1,45 @@
+.flex-containt{
+    display: flex;
+    justify-content: space-around;
+    background-color: #149777;
+    line-height: 60px;
+}
+.image{
+    width: 50%;
+    height: 80px;
+    line-height: 0;
+    background: transparent;
+}
+.friest-containt ul{
+    display: flex;
+}
+.friest-containt ul li{
+    margin: 0px 10px;
+    padding: 0px 10px;
+    list-style: none;
+}
+.friest-containt ul li a{
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 5px;
+    font-size: 14px;
+}
+.friest-containt ul li a.border-containt{
+    border: 1px solid #007168;
+    border-radius: 5px;
+}
+.friest-containt ul li a.background-containt{
+    background-color: #FFC800;
+    padding: 15px;
+    border-radius: 5px;
+    color: black;
+    font-size: 15px;
+}
+.width{
+    font-size: 22px;
+    color: #FFFFFF;
+    margin-right: 5px;
+}
+.friest-containt ul li a.font-containt{
+    font-size: 30px;
+}

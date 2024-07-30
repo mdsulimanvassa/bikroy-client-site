@@ -1,0 +1,110 @@
+.margin-containt {
+    max-width: 970px;
+    margin: 20px auto;
+}
+
+.flex-all {
+    display: grid;
+    grid-template-columns: 25% 55% 10%;
+    gap: 15px;
+}
+
+.location-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.all-padding {
+    padding: 20px;
+    background-color: #ddd;
+    margin-top: 20px;
+}
+
+.wallpaper3 img {
+    width: 100%;
+    position: relative;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.wallpaper2 img {
+    position: sticky;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.cataguary-containt {
+    border-right: 1px solid #756b6b;
+}
+
+.cataguary-container {
+    margin-top: 20px;
+}
+
+.dynamic-containt {
+    margin-top: 20px;
+}
+
+.wallpaper2 {
+    margin-top: 20px;
+}
+
+.cataguary-container{
+    padding: 20px;
+}
+
+.select-date{
+    width: 100%;
+    padding: 4px;
+    outline: none;
+    border: 1.2px solid #615b5b;
+    border-radius: 3px;
+}
+
+hr{
+    margin-top: 20px;
+}
+
+.filter-adds p{
+    margin-top: 30px;
+}
+.filter-adds input{
+    margin-right: 10px;
+    padding: 10px;
+}
+.filter-adds label{
+    font-size: 10px;
+}
+
+.filter-adds .urgent{
+    background-color: chocolate;
+    color: #fff;
+    padding: 3px;
+    border-radius: 3px;
+    position: relative;
+    top: -2px;
+}
+
+.filter-adds .featured{
+    background-color: rgb(59, 15, 15);
+    color: #fff;
+    padding: 3px;
+    border-radius: 3px;
+    position: relative;
+    top: -2px;
+}
+.members p{
+    margin-top: 30px;
+}
+.category p{
+    margin-top: 20px;
+    font-size: 14px;
+    color: #756b6b;
+}
+.locations{
+    margin-top: 20px;
+    font-size: 14px;
+    color: #756b6b;
+}

@@ -1,0 +1,78 @@
+.many-containt {
+    display: flex;
+    padding: 50px 100px;
+    flex-wrap: wrap;
+}
+
+.contaner {
+    flex-basis: 50%;
+    padding: 20px;
+    height: 200px;
+}
+
+.dollar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: -5px -5px 20px #ddd;
+    border-right: 1px solid #ddd;
+}
+
+.dollar img {
+    width: 100%;
+    padding: 10px;
+}
+
+.shadow {
+    box-shadow: 5px 5px 20px #ddd;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.dollar h3,p{
+    margin-bottom: 15px;
+}
+.dollar p{
+    color: #9d9696;
+}
+.shadow h2,p{
+    margin-bottom: 15px;
+}
+.shadow p{
+    color: #9d9696;
+}
+.shadow h2{
+    color: #0074BA;
+}
+.shadow h2 span{
+    font-size: 20px;
+}
+.dollar button{
+    background-color: #FFC800;
+    color: #000;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.shadow button{
+    background-color: #0074BA;
+    color: #ffffff;
+    width: 180px;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.angle{
+    border-radius: 50%;
+    padding: 2px 5px;
+    background-color: #ffffff;
+    color: #0074BA;
+}
+.plus{
+    border-radius: 50%;
+    padding: 2px 3px;
+    background-color:#673500;
+    color: #fff;
+}

@@ -1,0 +1,19 @@
+.job-containt p a{
+    text-decoration: none;
+    color: #948d8d;
+}
+.job-containt p{
+    color: #948d8d;
+    margin-bottom: 15px;
+}
+.job-containt h4{
+    margin-bottom: 15px;
+}
+.job-containt{
+    flex-basis: 20%;
+    margin: 8px;
+    padding: 10px 20px;
+    background-color: #F3F6F5;
+    display: flex;
+    flex-direction: column;
+}

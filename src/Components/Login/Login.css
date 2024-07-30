@@ -1,0 +1,81 @@
+.login-area {
+    padding: 20px;
+    width: 500px;
+}
+
+.middle-aline{
+    background-color: #072720;
+    display: flex;
+    width: 100%;
+    height: 90vh;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.login-containt {
+    height: auto;
+}
+
+.login-pages {
+    flex-basis: 48%;
+
+}
+
+.content {
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: left;
+    box-shadow: 1px 1px 5px #ddd, -1px -1px 5px #ddd;
+}
+
+.content h2 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+
+.login-pages input[type="submit"] {
+    background-image: linear-gradient(45deg, #12D0D6, #19D3AE);
+    color: #fff;
+    width: 30%;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+.content button {
+    padding: 10px 20px;
+    /* width: 50%; */
+    background-image: linear-gradient(160deg, #d63031, #f1c40f, #05c46b, #0652DD);
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 17px;
+    border: 2px dashed #b8e994;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.button-containt1 {
+    text-align: center;
+    margin: 20px 0px;
+}
+
+.text-danger {
+    color: red;
+    text-align: left;
+    margin-top: 5px;
+}
+
+.shipment-rows div{
+    margin: 10px;
+}
+.shipment-rows div input{
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    border: 1px solid #007168;
+}
